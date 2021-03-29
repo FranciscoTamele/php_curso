@@ -1,0 +1,41 @@
+			*{
+				margin:0 20px;
+			}
+
+			h1{
+				color:#000EFF;	
+			}
+
+			table {
+				border-spacing:0;
+				border:1px solid black;
+			}
+
+			thead tr th{
+				color:#7F7D55;
+				font-size:20px;
+				border:1px solid black;
+				padding:10px;
+				font-weight:bold;
+			}
+
+			tbody tr td{
+				color:#000;
+				font-size:18px;
+				border:1px solid black;
+				padding:3px;
+			}
+
+			p a#btn{
+				font-size:15px;
+				background:green;
+				padding:5px;
+				margin:0 0;
+				color:white;
+				text-decoration: none;
+				border:2px solid #55AA55;
+			}
+
+			.func{
+				color:#FF0E00;
+			}
